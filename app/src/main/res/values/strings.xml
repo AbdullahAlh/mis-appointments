@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Appointments</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_up">First time? Register</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="prompt_full_name">Full Name</string>
+    <string name="prompt_civil_id">Civil ID</string>
+    <string name="prompt_date_of_birth">Date of birth dd/mm/yyyy</string>
+    <string name="action_add_appointment">Add Appointment</string>
+    <string name="prompt_date_of_appointment">Appointment date dd/mm/yyyy</string>
+    <string name="prompt_doctor_name">Doctor name</string>
+    <string name="prompt_appointment_title">Appointment Title</string>
+    <string name="action_choose_appointment">Choose Appointment</string>
+    <string name="your_appointments">Your Appointments</string>
+</resources>
